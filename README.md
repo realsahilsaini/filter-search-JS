@@ -1,1 +1,1 @@
-# filter-search-JS
+# Filter Product using vanilla Javascript
